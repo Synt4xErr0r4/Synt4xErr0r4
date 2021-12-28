@@ -1,5 +1,5 @@
 ### SyntaxErro404
 
 - Austria :earth_africa:
-- 16 y/o :cake:
+- 17 y/o :cake:
 - Java & C
