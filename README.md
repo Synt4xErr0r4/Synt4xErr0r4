@@ -1,5 +1,5 @@
-### SyntaxErro404
+### Thomas Kasper
 
-- Austria :earth_africa:
-- 18 y/o :cake:
+- Austria
+- 19
 - Java & C
