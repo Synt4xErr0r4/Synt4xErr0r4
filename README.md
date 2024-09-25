@@ -1,5 +1,5 @@
 ### Thomas Kasper
 
 - Austria
-- 19
-- Java & C
+- 20
+- C, C++, Java
